@@ -1,0 +1,7 @@
+rnn model
+Train Accuracy: 0.97484375
+Train Loss: 0.08143574744462967
+Valid Accuracy: 0.885
+Valid Loss: 0.33261421203613284
+Test Accuracy: 0.897
+Test Loss: 0.3174787163734436

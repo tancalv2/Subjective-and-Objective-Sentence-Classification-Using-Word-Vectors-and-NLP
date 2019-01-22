@@ -1,0 +1,7 @@
+baseline model
+Train Accuracy: 0.875625
+Train Loss: 0.40186381340026855
+Valid Accuracy: 0.865
+Valid Loss: 0.40980751037597657
+Test Accuracy: 0.868
+Test Loss: 0.405114084482193

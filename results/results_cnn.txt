@@ -1,0 +1,7 @@
+cnn model
+Train Accuracy: 1.0
+Train Loss: 0.005623430013656616
+Valid Accuracy: 0.908125
+Valid Loss: 0.27641963958740234
+Test Accuracy: 0.9135
+Test Loss: 0.26976504921913147
