@@ -1,7 +1,7 @@
 Subjective/Objective Sentence Classification Using Word Vectors and NLP
 Dataset: 10,000 sentences (5,000 subjective, 5,000 objective) from https://www.cs.cornell.edu/people/pabo/movie-review-data/ based on Rotten Tomatoes Movie Reviews and IMDb plot summaries
 Goal: Two parts
- 1. Build three Natural Language Processing (NLP) models: baseline, Recurrent Neural Network (RNN), and Convolutional Neural Network (CNN) to predict a 2-class dataset using Pytorch torchtext library and pre-trained word embeddings
+ 1. Build three Natural Language Processing (NLP) models: baseline, Recurrent Neural Network (RNN), and Convolutional Neural Network (CNN) to predict a 2-class dataset using Pytorch torchtext library and pre-trained word vectors
  2. Create a command-line interface to test "subjectivity" of a sentence
 
 Hyperparameters
